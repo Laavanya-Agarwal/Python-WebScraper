@@ -1,0 +1,6 @@
+xattr -d com.apple.quarantine chromedriver 
+/Users/laavanya/Desktop/web-scrapping-2/chromedriver/to/chromedriver
+
+installing chromedriver - https://chromedriver.chromium.org/downloads
+creating venv - python3.8 -m venv venvname, activating venv by going inside bin and writing activate source
+installing things - pip3 install bs4, pip3 install selenium
